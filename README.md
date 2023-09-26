@@ -9,5 +9,6 @@
 - rate limiter
 
 ## Communication
+- Remote procedure invocation
 - API gateway
 - Service discovery
