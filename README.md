@@ -4,7 +4,7 @@
 - Decompose by business capability
 - Decompose by subdomain
 
-## Observability
+## Reliability
 - circuit breaker
 - rate limiter
 
