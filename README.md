@@ -12,3 +12,6 @@
 - Remote procedure invocation
 - API gateway
 - Service discovery
+
+## Networking
+- Self registration
