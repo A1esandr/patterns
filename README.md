@@ -16,3 +16,4 @@
 ## Networking
 - Self registration
 - Client-side discovery
+- **3rd party registration** - Service instances are automatically registered with the service registry by a third party.
