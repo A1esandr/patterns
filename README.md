@@ -15,3 +15,4 @@
 
 ## Networking
 - Self registration
+- Client-side discovery
