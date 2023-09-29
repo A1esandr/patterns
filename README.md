@@ -1,4 +1,4 @@
-# Microservices patterns
+# Microservice patterns
 
 ## Decomposition
 - Decompose by business capability
