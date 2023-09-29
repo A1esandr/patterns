@@ -21,3 +21,4 @@
 
 ## Data
 - **Transactional outbox** - Publish an event or message as part of a database transaction by saving it in an OUTBOX in the database.
+- **Polling publisher** - Publish messages by polling the outbox in the database.
