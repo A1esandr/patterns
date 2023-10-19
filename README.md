@@ -25,4 +25,6 @@
 - **Transaction log tailing** - Publish changes made to the database by tailing the transaction log.
 - **Saga** - Maintain data consistency across services using a sequence of local transactions that are coordinated using asynchronous messaging.
 
+## Code organization
 - **Transaction script** - Organize the business logic as a collection of procedural transaction scripts, one for each type of request.
+- **Domain model** - Organize the business logic as an object model consisting of classes that have state and behavior.
