@@ -29,3 +29,4 @@
 - **Transaction script** - Organize the business logic as a collection of procedural transaction scripts, one for each type of request.
 - **Domain model** - Organize the business logic as an object model consisting of classes that have state and behavior.
 - **Aggregate** - Organize a domain model as a collection of aggregates, each of which is a graph of objects that can be treated as a unit.
+- **Domain event** - An aggregate publishes a domain event when it’s created or undergoes some other significant change.
