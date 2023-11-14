@@ -24,6 +24,7 @@
 - **Polling publisher** - Publish messages by polling the outbox in the database.
 - **Transaction log tailing** - Publish changes made to the database by tailing the transaction log.
 - **Saga** - Maintain data consistency across services using a sequence of local transactions that are coordinated using asynchronous messaging.
+- **Event sourcing** - Persist an aggregate as a sequence of domain events that represent state changes.
 
 ## Code organization
 - **Transaction script** - Organize the business logic as a collection of procedural transaction scripts, one for each type of request.
