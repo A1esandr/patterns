@@ -25,6 +25,7 @@
 - **Transaction log tailing** - Publish changes made to the database by tailing the transaction log.
 - **Saga** - Maintain data consistency across services using a sequence of local transactions that are coordinated using asynchronous messaging.
 - **Event sourcing** - Persist an aggregate as a sequence of domain events that represent state changes.
+- **API composition** - Implement a query that retrieves data from several services by querying each service via its API and combining the results.
 
 ## Code organization
 - **Transaction script** - Organize the business logic as a collection of procedural transaction scripts, one for each type of request.
