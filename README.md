@@ -26,6 +26,7 @@
 - **Saga** - Maintain data consistency across services using a sequence of local transactions that are coordinated using asynchronous messaging.
 - **Event sourcing** - Persist an aggregate as a sequence of domain events that represent state changes.
 - **API composition** - Implement a query that retrieves data from several services by querying each service via its API and combining the results.
+- **Command query responsibility segregation** - Implement a query that needs data from several services by using events to maintain a read-only view that replicates data from the services.
 
 ## Code organization
 - **Transaction script** - Organize the business logic as a collection of procedural transaction scripts, one for each type of request.
