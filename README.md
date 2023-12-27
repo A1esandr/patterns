@@ -34,3 +34,4 @@
 - **Aggregate** - Organize a domain model as a collection of aggregates, each of which is a graph of objects that can be treated as a unit.
 - **Domain event** - An aggregate publishes a domain event when it’s created or undergoes some other significant change.
 - **API gateway** - Implement a service that’s the entry point into the microservices-based application from external API clients.
+- **Backends for frontends** - Implement a separate API gateway for each type of client.
